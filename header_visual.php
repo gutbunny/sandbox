@@ -4,4 +4,4 @@
  */
 
 ?>
-<h3>Header (visual) included</h3>
+<h3>Demo Dating Site</h3>
