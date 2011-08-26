@@ -1,0 +1,47 @@
+/* 
+    Document   : style
+    Created on : Aug 25, 2011, 3:05:43 PM
+    Author     : shep
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+#content-wrapper {
+
+    text-align: center;
+    width: 1000px;
+}
+
+#body-content-wrapper {
+
+    text-align: center;
+    padding-top: 30px;
+    min-height: 250px;
+}
+
+#header-content-wrapper {
+
+    text-align: center;
+    height: 150px;
+    width: 1000px;
+    background-color: #a1abce;
+    padding-top: 30px;
+}
+
+#footer-content-wrapper {
+
+    text-align: center;
+    height: 150px;
+    width: 1000px;
+    background-color: #a1abce;
+    padding-top: 30px;
+}
