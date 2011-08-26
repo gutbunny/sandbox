@@ -59,7 +59,7 @@ include('config.php');
                             <option value="20">20</option>
                             <option value="50">50</option>
                             <option value="100">100</option>
-                            <option value="any">any</option>
+                            
                         </select>
                         <label for="radius"> miles </label>
                     </div>
